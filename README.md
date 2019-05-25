@@ -1,1 +1,1 @@
-# 99HaskelProblems
+# 99HaskellProblems
